@@ -1,127 +1,127 @@
-# CW3D Dapp Boilerplate For Netlify
+# White Paper: Humanitarian Cooperation Fund on TON Blockchain
 
-This boilerplate is set up to be deployed on Netlify and you can directly deploy this project by clicking the button below:
+## Introduction
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
+The Humanitarian Cooperation Fund (HCF) is a decentralized initiative built on the TON (Telegram Open Network) Blockchain, aiming to foster global collaboration and support innovative projects that transform lives. By leveraging TON's scalability, speed, and security, the fund ensures a transparent and efficient system for financing humanitarian and technological advancements.
 
-Visit the [Live Demo here](https://alchemy-cw3d-dapp-boilerplate.netlify.app/)
+## Vision
 
-## Resources
-Please refer to CW3D's documentation and the following useful links for an in depth explanation of how to work with projects bootstrapped with CW3D:
+To establish the TON Blockchain as the foundation for a global platform where humanity collaborates to create a better future for everyone.
 
--   [Docs](https://docs.alchemy.com/docs/create-web3-dapp) - Everything you need to know when using CW3D
--   [GitHub](https://github.com/alchemyplatform/create-web3-dapp) - look at the extensive code example or start contributing
--   [Website](https://createweb3dapp.alchemy.com) - Learn more about CW3D and add components to your project
--   [Templates](https://createweb3dapp.alchemy.com/#templates) - Check out the pre-built project templates
--   [Components Library](https://createweb3dapp.alchemy.com/#components) - Add features directly to your project through components
--   [Examples](https://github.com/alchemyplatform/create-web3-dapp-examples) - See the components implemented in a real world dapp
--   [Community](https://t.me/createweb3dapp) - Meet other builders, get support, and give feedback!
+## Mission
 
-## Overview
+To utilize TON Blockchain's decentralized infrastructure to fund innovative projects, inventions, and ideas, empowering individuals and communities worldwide.
 
-This project serves as a boilerplate for creating decentralized applications (dApps) using [Create Web3 Dapp](https://github.com/alchemyplatform/create-web3-dapp). It is preconfigured to be deployed on [Netlify](https://www.netlify.com/), providing you with a seamless way to get your dApp up and running in no time.
+## Objectives
 
-This boilerplate is built using [CW3D (Create Web3 Dapp)](https://github.com/alchemyplatform/create-web3-dapp), a powerful tool developed by [Alchemy](https://www.alchemy.com/) that allows developers to rapidly create and deploy dApps.
+1. Empower global innovation: Supporting projects that use advanced technologies to improve lives.
+2. Promote decentralization: Ensuring transparency and fairness by leveraging smart contracts on TON.
+3. Encourage inclusivity: Allowing anyone, regardless of background or culture, to contribute or benefit.
+4. Enable seamless contributions: Using TON's ecosystem to simplify donations and ensure funds reach their intended recipients.
+5. Support collaboration: Creating a network where individuals and organizations work together for humanity's benefit.
 
-## What's Included?
+## Why TON Blockchain?
 
-This boilerplate has everything you need to start building a dapp:
+1. Fast and Scalable: TON can process millions of transactions per second, making it ideal for global projects.
+2. Decentralized and Transparent: Smart contracts on TON ensure accountability and prevent misuse of funds.
+3. Integrated Ecosystem: TON Wallets, TON Coins, and Telegram integrations streamline contributions and interactions.
+4. Secure and Efficient: With its advanced architecture, TON ensures the highest level of security and cost-efficiency.
 
-- Next.js
-- Wagmi Hooks
-- Ethers.js
-- Rainbowkit
-- Alchemy SDK
+## Core Functions
 
-## Supported Chains
+1. Crowdfunding for Projects: Directly supporting innovative ideas and startups with global impact.
+2. Invention and Creativity Grants: Funding groundbreaking technologies and solutions.
+3. Humanitarian Aid: Providing direct financial support to individuals and communities in need.
+4. Educational Programs: Sponsoring initiatives that spread knowledge and skills worldwide.
 
-The project supports all the major EVM chains:
+## How It Works
 
- - Ethereum
- - Polygon
- - Polygon zkEVM
- - Arbitrum
- - Optimism
+1. Smart Contract-based Transactions: All funds are managed through decentralized smart contracts on TON.
+2. Tokenized Contributions: Contributors can donate using TON Coins or other supported cryptocurrencies.
+3. Transparent Reporting: Every transaction and allocation is recorded on the blockchain, ensuring full transparency.
+4. Automated Distributions: Smart contracts distribute funds directly to projects or beneficiaries based on predefined criteria.
 
-## Getting Started
+## Commitments
 
-### Prerequisites
+1. Transparency: Publishing all financial activities on the TON Blockchain.
+2. Fairness: Ensuring equal opportunities for contributors and beneficiaries.
+3. Global Accessibility: Allowing participation from anyone, anywhere.
+4. Sustainability: Focusing on long-term, impactful projects that align with the fund's goals.
 
-To get started with this boilerplate, you'll need to have the following software installed on your local machine:
+## Funding Mechanisms on TON
 
-- [Node.js](https://nodejs.org/)
-- [Yarn](https://yarnpkg.com/)
-- [Git](https://git-scm.com/)
+1. Cryptocurrency Payments:
+   - TON Coins (native to the TON Blockchain)
+   - Other compatible cryptocurrencies
 
-### Installation
+2. Decentralized Crowdfunding:
+   - Utilizing TON's smart contracts to pool resources efficiently
 
-1. Clone the repository to your local machine:
-   ```
-   git clone https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates.git
-   ```
-2. Navigate to the project directory:
-   ```
-   cd netlify-alchemy-dapp-boilerplates
-   ```
-3. Install the required dependencies:
-   ```
-   yarn install
-   ```
+3. Community Rewards:
+   - Encouraging participation through tokenized incentives for contributors
 
-### Running the Project
+4. Micro-donations via Telegram:
+   - Integrating donation tools directly into Telegram channels and bots
 
-1. Start the local development server:
-   ```
-   yarn run dev
-   ```
-2. Open your browser and navigate to [`http://localhost:3000/`](http://localhost:3000/) to view the dApp in action.
+## Subscription System
 
-### Deploying to Netlify
+### How to Subscribe
 
-This boilerplate is set up to be deployed on Netlify and you can directly deploy this project by clicking the button below:
+1. **Connect Your TON Wallet**
+   - Install a TON-compatible wallet (e.g., Tonkeeper, TonHub)
+   - Connect your wallet to the platform
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/alchemyplatform/netlify-alchemy-dapp-boilerplates)
+2. **Choose Your Subscription**
+   - Select the subscription amount you wish to contribute
+   - Review the terms: 95% goes to the referral address, 5% to the platform
 
- If you prefer to deploy it manually, you can follow these steps:
+3. **Complete the Transaction**
+   - Confirm the transaction in your TON wallet
+   - Ensure you have sufficient TON balance (subscription amount + gas fees)
+   - Wait for transaction confirmation
 
-1. Sign up for a Netlify account at [netlify.com](https://www.netlify.com/) if you don't already have one.
-2. Install the Netlify CLI:
-   ```
-   npm install -g netlify-cli
-   ```
-3. Run the following command to deploy your dApp to Netlify:
-   ```
-   netlify deploy
-   ```
-4. Follow the prompts and provide the required information. Your dApp will be deployed and accessible via a unique URL.
+### Technical Details
 
-## Project Structure
+The subscription smart contract implements the following features:
 
-The boilerplate project is a Next.js application with the following structure:
+- Automatic split of payments: 95% to referral, 5% to platform
+- Secure transaction handling on TON blockchain
+- Real-time payment processing
+- Transparent fee structure
 
-```
-📦root
- ┣ 📂components
- ┃ ┣ 📂navigation
- ┃ ┃ ┗ 📜navbar.jsx
- ┃ ┗ 📜InstructionsComponent.jsx
- ┣ 📂layout
- ┃ ┗ 📜mainLayout.jsx
- ┣ 📂pages
- ┃ ┣ 📜_app.js
- ┃ ┗ 📜index.jsx
- ┣ 📂public
- ┃ ┗ 📜cw3d-logo.png
- ┣ 📂styles
- ┃ ┣ 📜Home.module.css
- ┃ ┣ 📜InstructionsComponent.module.css
- ┃ ┣ 📜Navbar.module.css
- ┃ ┗ 📜globals.css
- ┣ 📜.gitignore
- ┣ 📜README.md
- ┣ 📜next.config.js
- ┣ 📜package-lock.json
- ┗ 📜package.json
+### Smart Contract Integration
+
+```typescript
+// Example of interacting with the subscription contract
+async function subscribe(amount: string, referralAddress: string) {
+    const provider = new TonProvider();
+    const contract = new Contract(SUBSCRIPTION_ADDRESS, ABI);
+    
+    // Send subscription payment
+    await contract.sendTransaction({
+        value: amount,
+        to: referralAddress
+    });
+}
 ```
 
-Start editing the `pages/index.jsx` file to customize the project according to your own needs!
+### Fee Structure
+
+- 95% of subscription amount goes directly to the referral address
+- 5% is retained by the platform for maintenance and development
+- Gas fees are paid by the subscriber
+
+## Message to TON Community
+
+We believe the TON Blockchain is the ideal platform to launch this ambitious initiative. Its decentralized nature aligns perfectly with our values of transparency, fairness, and global cooperation. Together, we can build a future where innovation and collaboration know no bounds.
+
+Join us in transforming lives and creating a more connected, compassionate world through the power of TON Blockchain.
+
+## Proposed Next Steps
+
+1. Collaboration with TON Foundation: To enhance the fund's infrastructure and scalability.
+2. Building a TON-integrated DApp: To facilitate donations, project proposals, and fund allocation.
+3. Creating Awareness: Leveraging Telegram and other platforms to reach a global audience.
+4. Launching the Fund: Kickstarting the initiative with pilot projects and early contributors.
+
+We invite the TON Foundation and its community to partner with us in this transformative journey. Together, we can redefine humanitarian cooperation for the digital age.
